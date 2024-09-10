@@ -1,8 +1,8 @@
-Olá 👋 eu sou a Herica silva, aspirante a entrar no mercado de trabalho como Desenvolvedora Front End e Mobile App.
+Olá 👋 eu sou a Herica silva, futura Desenvolvedora Mobile app developer.
 
 
 🔍 Objetivo: Desenvolver e contribuir para aplicações
-web e móveis 
+ móveis.
 
 
 📚 Aprendizado: Expandindo continuamente meus
@@ -34,4 +34,4 @@ meus projetos e se conectar comigo!
  
 <div><br/>
 
-Apaixonada por novos desafios, estou cada dia mais entusiasmada em aprender sobre tecnologias. 
+
