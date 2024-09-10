@@ -13,8 +13,6 @@ conhecimentos
 meus projetos e se conectar comigo!
 
 
-![HericaSilva GitHub stats](https://github-readme-stats.vercel.app/api?username=HericaSilva&show_icons=true&theme=radical)
-
 ## Tecnologias
 
 <div style="display: inline_block"><br/>
