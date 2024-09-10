@@ -13,11 +13,6 @@ conhecimentos
 meus projetos e se conectar comigo!
 
 
-
-
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://nl.linkedin.com/in/herica-leny-pereira-da-silva-4630b939)
-
-
 ![HericaSilva GitHub stats](https://github-readme-stats.vercel.app/api?username=HericaSilva&show_icons=true&theme=radical)
 
 ## Tecnologias
