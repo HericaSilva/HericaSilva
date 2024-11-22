@@ -1,7 +1,7 @@
 👋 Olá! Eu sou Herica Silva
-📱 Futura Desenvolvedora de Aplicativos Mobile
+📱 Futura Desenvolvedora de Front-End/Mobile
 
-Atualmente, estou em transição de carreira e mergulhada no aprendizado do desenvolvimento de aplicativos móveis. Estou aprimorando minhas habilidades em:
+Atualmente, estou em transição de carreira e mergulhada no aprendizado do desenvolvimento  Web/móveis. Estou aprimorando minhas habilidades nas:
 
 ## Tecnologias
 
@@ -21,7 +21,7 @@ Atualmente, estou em transição de carreira e mergulhada no aprendizado do dese
 <div><br/>
 
 
-🎓 Estudante dedicada, sempre em busca de novos desafios e oportunidades para crescer na área de desenvolvimento mobile.
+🎓 Estudante dedicada, sempre em busca de novos desafios e oportunidades para crescer na área de desenvolvimento web e mobile.
 
 💻 Meus projetos e códigos estão disponíveis aqui no GitHub, onde você pode acompanhar meu progresso e aprendizado. Vamos conectar e trocar ideias sobre o mundo mobile!
 
