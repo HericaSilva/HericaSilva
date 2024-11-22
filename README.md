@@ -20,12 +20,9 @@ Atualmente, estou em transição de carreira e mergulhada no aprendizado do dese
  
 <div><br/>
 
+💻 Meus projetos e códigos estão disponíveis aqui no GitHub, onde você pode acompanhar meu progresso e aprendizado.
 
-🎓 Estudante dedicada, sempre em busca de novos desafios e oportunidades para crescer na área de desenvolvimento web e mobile.
-
-💻 Meus projetos e códigos estão disponíveis aqui no GitHub, onde você pode acompanhar meu progresso e aprendizado. Vamos conectar e trocar ideias sobre o mundo mobile!
-
-
-
+## Portfólio de Projetos
+- [Menu para Hamburgueria ]( https://projeto-hamburgueria-eta-orcin.vercel.app/) (React Native, Javascript, Html5, TailWindCss, Deploy: Vercel)
 
 
