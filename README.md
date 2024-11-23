@@ -24,5 +24,6 @@ Atualmente, estou em transição de carreira e mergulhada no aprendizado do dese
 
 ## Portfólio de Projetos
 - [Menu para Hamburgueria ]( https://projeto-hamburgueria-eta-orcin.vercel.app/) (React Native, Javascript, Html5, TailWindCss, Deploy: Vercel)
+- [Filmes no cinema ]( https://primeflix-movie-now.netlify.app) ( React Js + consumo Api externa:https://www.themoviedb.org/ Depply: netlify )
 
 
