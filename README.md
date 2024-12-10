@@ -25,8 +25,9 @@ Currently, I am deepening my knowledge in Web Development and Mobile Development
 💻 My projects and code are available here on GitHub, where you can track my progress and learning.
 
 ## My featured projects
-- [Menu para Hamburgueria ]( https://projeto-hamburgueria-eta-orcin.vercel.app/) (React Native, Javascript, Html5, TailWindCss, Deploy: Vercel)
-- [Filmes no cinema ]( https://primeflix-movie-now.netlify.app) ( React Js , consumo Api externa:themoviedb.org, Depply: netlify )
-- [Agenda de Tarefas ](https://projeto-fire-agenda.netlify.app/) ( React Js , Firebase/ Depply: netlify )
+- [Movies in Theaters ]( https://primeflix-movie-now.netlify.app) ( React Js , Using Api:themoviedb.org, Depply: netlify )
+- [To-Do-List ](https://projeto-fire-agenda.netlify.app/) ( React Js , Firebase/ Depply: netlify )
+- [Barbershop-Landing Page](https://projeto-barber-two.vercel.app/) ( Javascript, SCss , Html5, Css Depply: Vercel )
+- [Burger Menu ]( https://projeto-hamburgueria-eta-orcin.vercel.app/) (React Native, Javascript, Html5, TailWindCss, Deploy: Vercel)
 
 
