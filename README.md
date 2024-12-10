@@ -1,9 +1,11 @@
-👋 Olá! Eu sou Herica Silva
-📱 Futura Desenvolvedora de Front-End/Mobile
+ Hi, I'm Herica Silva 👋
+📱 Student in Front-End/Mobile Development
 
-Atualmente, estou em transição de carreira e mergulhada no aprendizado do desenvolvimento  Web/móveis. Estou aprimorando minhas habilidades nas:
+I am starting my journey in the world of web and mobile development. I have been dedicating myself to learning the best practices and technologies to deliver high-quality and user-friendly experiences.
 
-## Tecnologias
+Currently, I am deepening my knowledge in Web Development and Mobile Development, building practical projects to enhance my skills and prepare for real-world challenges in the field.
+
+## Technologies & Tools
 
 <div style="display: inline_block"><br/>
 <img alt="center" alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -20,9 +22,9 @@ Atualmente, estou em transição de carreira e mergulhada no aprendizado do dese
  
 <div><br/>
 
-💻 Meus projetos e códigos estão disponíveis aqui no GitHub, onde você pode acompanhar meu progresso e aprendizado.
+💻 My projects and code are available here on GitHub, where you can track my progress and learning.
 
-## Portfólio de Projetos
+## My featured projects
 - [Menu para Hamburgueria ]( https://projeto-hamburgueria-eta-orcin.vercel.app/) (React Native, Javascript, Html5, TailWindCss, Deploy: Vercel)
 - [Filmes no cinema ]( https://primeflix-movie-now.netlify.app) ( React Js , consumo Api externa:themoviedb.org, Depply: netlify )
 - [Agenda de Tarefas ](https://projeto-fire-agenda.netlify.app/) ( React Js , Firebase/ Depply: netlify )
