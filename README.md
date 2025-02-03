@@ -1,9 +1,9 @@
- Hi, I'm Herica Silva 👋
-📱 Student in Front-End/Mobile Development
+ Hi, I'm Herica Silva! 👋
+📱 Front-End & Mobile Development Student
 
-I am starting my journey in the world of web and mobile development. I have been dedicating myself to learning the best practices and technologies to deliver high-quality and user-friendly experiences.
+I'm embarking on my journey into the world of web and mobile development, continuously learning best practices and modern technologies to create high-quality, user-friendly experiences.
 
-Currently, I am deepening my knowledge in Web Development and Mobile Development, building practical projects to enhance my skills and prepare for real-world challenges in the field.
+Currently, I'm deepening my knowledge in Web and Mobile Development by building practical projects to sharpen my skills and prepare for real-world challenges in the field.
 
 ## Technologies & Tools
 
@@ -25,9 +25,9 @@ Currently, I am deepening my knowledge in Web Development and Mobile Development
 💻 My projects and code are available here on GitHub, where you can track my progress and learning.
 
 ## My featured projects
-- [Movies in Theaters ]( https://primeflix-movie-now.netlify.app) ( React Js , Using Api:themoviedb.org, Depply: netlify )
-- [To-Do-List ](https://projeto-fire-agenda.netlify.app/) ( React Js , Firebase/ Depply: netlify )
-- [Barbershop-Landing Page](https://projeto-barber-two.vercel.app/) ( Javascript, SCss , Html5, Css Depply: Vercel )
+- [Movies in  Theaters]( https://primeflix-movie-now.netlify.app) ( React.Js , Using Api:themoviedb.org, Deploy: netlify )
+- [To-Do-List ](https://projeto-fire-agenda.netlify.app/) ( React.Js , Firebase/ Deploy: netlify )
+- [Barbershop-Landing Page](https://projeto-barber-two.vercel.app/) ( Javascript, SCss , Html5, Css Deploy: Vercel )
 - [Burger Menu ]( https://projeto-hamburgueria-eta-orcin.vercel.app/) (React Native, Javascript, Html5, TailWindCss, Deploy: Vercel)
 
 
